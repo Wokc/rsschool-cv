@@ -1,5 +1,3 @@
-<a href='https://wokc.github.io/rsschool-cv/cv'>**rsschool-cv**</a>
-
 # Evgeni Mozgo
 
 ---
