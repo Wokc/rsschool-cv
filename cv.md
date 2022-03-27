@@ -1,4 +1,4 @@
-<a> rsschool-cv </a>
+<a href='https://wokc.github.io/rsschool-cv/cv'>**rsschool-cv**</a>
 
 # Evgeni Mozgo
 
@@ -7,7 +7,6 @@
 ## Contact information:
 
 - **Adress:** Belarus, Vitebsk
-- **Phone:** +375 29 594 7817
 - **E-mail:** Woookc@gmail.com
 
 ## Skills
@@ -22,3 +21,5 @@
 
 - Russian - native speaker.
 - English - A2 (B1 in process…)
+
+---
