@@ -1,0 +1,23 @@
+# Evgeni Mozgo
+
+---
+
+## Contact information:
+
+-   **Adress:** Belarus, Vitebsk
+-   **E-mail:** Woookc@gmail.com
+
+## Skills
+
+-   HTML5
+-   CSS3/SASS
+-   Javascript(Basic)
+-   Git, GitHub
+-   React
+
+### Languages
+
+-   Russian - native speaker.
+-   English - A2 (B1 in process…)
+
+---
