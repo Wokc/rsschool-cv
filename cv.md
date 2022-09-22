@@ -7,6 +7,8 @@
 -   **Adress:** Belarus, Vitebsk
 -   **E-mail:** Woookc@gmail.com
 
+---
+
 ## Skills
 
 -   HTML5
